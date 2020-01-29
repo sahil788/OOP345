@@ -1,0 +1,7 @@
+﻿  Text.cpp
+c:\users\sahil\desktop\oop345 proj\w3\text.h(24): warning C4018: '<': signed/unsigned mismatch
+c:\users\sahil\desktop\oop345 proj\w3\text.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\sahil\desktop\oop345 proj\w3\text.cpp(90): warning C4715: 'w3::Text::operator=': not all control paths return a value
+c:\users\sahil\desktop\oop345 proj\w3\text.cpp(62): warning C4715: 'w3::Text::operator=': not all control paths return a value
+  w3.vcxproj -> C:\Users\sahil\Desktop\OOP345 proj\w3\Debug\w3.exe
+  w3.vcxproj -> C:\Users\sahil\Desktop\OOP345 proj\w3\Debug\w3.pdb (Full PDB)

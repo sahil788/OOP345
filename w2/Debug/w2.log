@@ -1,0 +1,9 @@
+﻿  Stations.cpp
+c:\users\sahil\desktop\oop345 proj\w2\stations.cpp(12): warning C4101: 'deliminator': unreferenced local variable
+  Station.cpp
+  main.cpp
+c:\users\sahil\desktop\oop345 proj\w2\stations.cpp(12): warning C4101: 'deliminator': unreferenced local variable
+  Generating Code...
+c:\users\sahil\desktop\oop345 proj\w2\station.cpp(34): warning C4715: 'w2::Station::inStock': not all control paths return a value
+  w2.vcxproj -> C:\Users\sahil\Desktop\OOP345 proj\w2\Debug\w2.exe
+  w2.vcxproj -> C:\Users\sahil\Desktop\OOP345 proj\w2\Debug\w2.pdb (Full PDB)

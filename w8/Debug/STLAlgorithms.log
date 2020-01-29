@@ -1,0 +1,9 @@
+﻿  w8.cpp
+c:\users\sahil\desktop\oop345 proj\w8\datatable.h(79): warning C4018: '<': signed/unsigned mismatch
+  c:\users\sahil\desktop\oop345 proj\w8\datatable.h(76): note: while compiling class template member function 'void w8::DataTable<float>::display(std::ostream &) const'
+  c:\users\sahil\desktop\oop345 proj\w8\datatable.h(88): note: see reference to function template instantiation 'void w8::DataTable<float>::display(std::ostream &) const' being compiled
+  c:\users\sahil\desktop\oop345 proj\w8\datatable.h(28): note: while compiling class template member function 'w8::DataTable<float>::DataTable(std::ifstream &,int,int)'
+  c:\users\sahil\desktop\oop345 proj\w8\w8.cpp(31): note: see reference to function template instantiation 'w8::DataTable<float>::DataTable(std::ifstream &,int,int)' being compiled
+  c:\users\sahil\desktop\oop345 proj\w8\w8.cpp(31): note: see reference to class template instantiation 'w8::DataTable<float>' being compiled
+  STLAlgorithms.vcxproj -> C:\Users\sahil\Desktop\OOP345 proj\w8\Debug\STLAlgorithms.exe
+  STLAlgorithms.vcxproj -> C:\Users\sahil\Desktop\OOP345 proj\w8\Debug\STLAlgorithms.pdb (Full PDB)

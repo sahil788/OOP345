@@ -1,0 +1,7 @@
+﻿  w7.cpp
+  Sale.cpp
+c:\users\sahil\desktop\oop345 proj\w7\sale.cpp(30): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Product.cpp
+  Generating Code...
+  STL Containers.vcxproj -> C:\Users\sahil\Desktop\OOP345 proj\w7\Debug\STL Containers.exe
+  STL Containers.vcxproj -> C:\Users\sahil\Desktop\OOP345 proj\w7\Debug\STL Containers.pdb (Full PDB)
